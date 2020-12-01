@@ -1,0 +1,30 @@
+
+
+body {
+  background-color: #bce6eb;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+h1 {
+color: #03506f;
+}
+
+h3 {
+color: #03506f;
+}
+
+th {
+  color: #03506f;
+}
+
+a:hover {
+  color: red;
+
+}
